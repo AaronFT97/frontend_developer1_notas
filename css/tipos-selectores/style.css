@@ -1,0 +1,12 @@
+
+div > div {
+    background-color: lime;
+}
+
+.es {
+    background-color: red;
+}
+
+.texto1 + .texto2 {
+    background-color: aqua;
+}
