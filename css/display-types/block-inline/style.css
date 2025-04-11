@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: lightgreen;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+
+    a {
+        background-color: aqua;
+        /* No soporta estas propiedades */
+        width: 100px;
+        height: 100px;
+        /* No soporta estas propiedades */
+        margin: 10px;
+    }
+
+
+button {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}

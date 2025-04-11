@@ -1,0 +1,10 @@
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin: 20px;
+}

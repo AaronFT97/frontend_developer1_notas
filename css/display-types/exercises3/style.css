@@ -1,0 +1,22 @@
+
+.row {
+    display: flex;
+}
+
+.col {
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+    .col:nth-child(1) {
+    background-color: #FF5733;
+    }
+    .col:nth-child(2) {
+    background-color: #33FF57;
+    }
+    .col:nth-child(3) {
+    background-color: #3357FF;
+    }
