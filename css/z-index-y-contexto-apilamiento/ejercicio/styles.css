@@ -1,0 +1,50 @@
+ * {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+} 
+
+
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+    
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    
+    
+
+    
+}
+
+.item1 {
+    background-color: red;
+    z-index: 4;
+    
+    
+}
+
+.item2 {
+    background-color: blue;
+    z-index: 3;
+    
+}
+
+.item3 {
+    background-color: green;
+    z-index: 2;
+}
+
+.item4 {
+    background-color: yellow;
+    z-index: 1;
+}

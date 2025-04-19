@@ -1,0 +1,50 @@
+
+/* div {
+    width: 250px;
+    height: 250px;
+}
+
+.one {
+    background-color: antiquewhite;
+    position: absolute;
+    z-index: 2;
+}
+
+.two {
+    background-color: aquamarine;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+ */
+
+
+
+section {
+    position: relative;
+}
+
+div {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+}
+
+.red {
+    background-color: red;
+    z-index: 3;
+}
+
+.blue {
+    background-color: blue;
+    z-index: 4;
+}
+
+.yellow {
+    background-color: yellow;
+    z-index: 2;
+}
+
+
+
